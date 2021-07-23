@@ -1,2 +1,2 @@
-# Data-Science-Yandex-Praktikum
-Специалист Data Scientist, курс от Яндекс Практикум
+# Специалист Data Scientist
+Выпускник по профессии "Специалист Data Scientist", курс от Яндекс Практикум
