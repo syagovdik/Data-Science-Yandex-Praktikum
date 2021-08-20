@@ -5,11 +5,11 @@
 # Содержание:
 
 
-| Tables        | Are           | Cool  |
+|      №   | Название           | Описание  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Project 01   | right-aligned | $1600 |
+| Project 02      | centered      |   $12 |
+| Project 03 | are neat      |    $1 |
 
 
 
